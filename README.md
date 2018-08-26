@@ -1,5 +1,7 @@
 # DEV Android 💖
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/DEV-Android.svg)](https://www.guardrails.io)
+
 Progress is a little behind [the iOS app](https://github.com/thepracticaldev/DEV-ios), and we haven't really given either our full focus, but we suspect things will come together quickly once we do. All issues are welcome to help move the project along via discussion.
 
 # Design ethose
